@@ -1,2 +1,1 @@
 # Jotty
-A Scribble Pad
